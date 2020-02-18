@@ -1,5 +1,7 @@
 The Ice HRM web application is vulnerable to CSRF to change the password of an arbitrary user:
 
+CVE-2020-9270
+
 CSRF POC:
 ````
 <html>
