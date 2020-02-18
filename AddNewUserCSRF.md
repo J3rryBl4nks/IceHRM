@@ -1,5 +1,7 @@
 The Ice HRM Web Application is vulnerable to CSRF to add an arbitrary user
 
+CVE-2020-9271
+
 CSRF POC:
 ````
 <html>
